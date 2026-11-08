@@ -4,7 +4,7 @@
 
 | Link | URL |
 |---|---|
-| GitHub repository | `<PASTE-YOUR-GITHUB-REPO-URL>` |
+| GitHub repository | `https://github.com/bitsmtai2026/nba-rookie-longevity-ml2` |
 | Live Streamlit app | `<PASTE-YOUR-STREAMLIT-APP-URL>` |
 
 ---
